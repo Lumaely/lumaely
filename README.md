@@ -1,4 +1,4 @@
-# lumaely
+# Lumaely
 
 <img src="/assets/readme/hi.png" width=300 align="right" alt="Screenshot of the app's homepage."/>
 
